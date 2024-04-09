@@ -1,4 +1,0 @@
-rootProject.name = 'MinecraftClient'
-
-include ':mcp'
-project(":mcp").projectDir = file("projects/mcp")
